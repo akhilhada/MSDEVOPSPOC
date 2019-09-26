@@ -1,6 +1,6 @@
 FROM websphere-liberty:webProfile7
 
-ADD target/MSDevopsPOC.war /config/dropins/
+ADD target/MSDEVOPSPOC.war /config/dropins/
 
 EXPOSE 9080
 
