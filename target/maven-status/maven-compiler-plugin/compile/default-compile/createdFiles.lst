@@ -1,0 +1,9 @@
+com\poc\dao\BankAppDao.class
+com\poc\service\BankAppService.class
+com\poc\dev\Person.class
+com\poc\service\DemoUserService.class
+com\poc\dao\UserDetailsDao.class
+com\poc\dev\User.class
+com\poc\service\JerseyService.class
+com\poc\dev\Test.class
+com\poc\service\UserService.class
