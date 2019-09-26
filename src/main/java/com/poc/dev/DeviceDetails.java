@@ -31,6 +31,7 @@ public class DeviceDetails implements Serializable {
 	public String getId() {
 		return id;
 	}
+	
 	@XmlElement
 	public void setId(String id) {
 		this.id = id;
