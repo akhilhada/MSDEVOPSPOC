@@ -5,7 +5,7 @@ import java.util.List;
 
 import com.poc.dev.DeviceDetails;
 import com.poc.dev.Person;
-import com.poc.dev.User;
+
 
 public class DeviceUsageDao {
 
