@@ -17,7 +17,7 @@ public class DeviceDetails implements Serializable {
 	public String units;
 	
 	public DeviceDetails(){} 
-	   
+	
 	public DeviceDetails (String id,String year,String startMeterReading,String endMeterReading, String units){
 	      this.id = id;
 	      this.year =  year;
