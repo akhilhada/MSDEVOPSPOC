@@ -21,7 +21,6 @@ import com.poc.dev.DeviceDetails;
 import com.poc.dev.Person;
 
 
-
 @Path("/checkusage")
 @SwaggerDefinition(tags = { @Tag(name = "Usage", description = "JAXRS Based API") })
 public class CheckDeviceUsage {
