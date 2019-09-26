@@ -19,7 +19,6 @@ import io.swagger.annotations.ApiResponses;
 import io.swagger.annotations.SwaggerDefinition;
 import io.swagger.annotations.Tag;
 
-
 @Path("/userservice")
 @Api("User service API")
 @SwaggerDefinition(tags = { @Tag(name = "User API", description = "JAXRS Based API") })
